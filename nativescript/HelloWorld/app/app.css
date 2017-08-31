@@ -1,1 +1,3 @@
-@import "nativescript-theme-core/css/core.light.css";
+// See more default themes here: http://docs.nativescript.org/angular/ui/theme#color-schemes
+
+@import "nativescript-theme-core/css/sky.css";
